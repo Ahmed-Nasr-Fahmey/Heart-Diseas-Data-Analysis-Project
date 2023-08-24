@@ -1,7 +1,7 @@
 # Heart Diseas Data Analysis Project
  The Heart Disease aims to comprehensively analyze cardiovascular health data using the R programming language. By conducting thorough data exploration, visualization, and building predictive models, this project seeks to uncover insights into heart disease risk factors and create a predictive tool for early detection.
 
- # # Key Components and Features:
+ # Key Components and Features:
 
 # Data Collection and Preprocessing:
 
@@ -29,13 +29,6 @@
 # Feature Importance Analysis in R:
    
    Interpret model results using libraries like randomForest to understand the significance of various features in predicting heart disease.
-# Predictive Web Tool (Optional) in R:
-
-   Develop a simple Shiny web application using the shiny package where users can input health indicators and receive risk predictions based on the trained models.
-# Documentation and Reporting:
-
-   Create a comprehensive R Markdown document detailing the project's objectives, methodology, code snippets, visualizations, and key findings.
-   Generate a final report showcasing insights, model performance, and potential implications.
 
    
 # Benefits and Learning Objectives:
