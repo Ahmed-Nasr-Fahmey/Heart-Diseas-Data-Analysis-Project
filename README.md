@@ -5,7 +5,7 @@
 
 # Data Collection and Preprocessing:
 
-   1- Obtain a dataset containing attributes like age, gender, cholesterol levels, blood pressure, and other relevant health indicators.
+   1- Obtain a dataset containing attributes like age, gender, cholesterol levels, blood pressure, and other relevant health indicators.                             
    2- Use R libraries to load and preprocess the data, addressing missing values and outliers.
 # Exploratory Data Analysis (EDA) in R:
 
